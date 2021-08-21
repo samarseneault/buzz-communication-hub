@@ -1,0 +1,3 @@
+[submodule "OptiTrackPython"]
+	path = OptiTrackPython
+	url = git@github.com:samarseneault/OptiTrackPython.git

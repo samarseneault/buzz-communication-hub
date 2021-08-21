@@ -1,0 +1,5 @@
+*.pyc
+*.bo
+*.bdb
+crazyflie-lib-python/
+crazyflie-clients-python/
