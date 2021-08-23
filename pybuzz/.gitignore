@@ -1,0 +1,5 @@
+demo/
+
+build/
+pybuzz/pybuzz.c
+*.so
